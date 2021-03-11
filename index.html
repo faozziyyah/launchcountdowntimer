@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"> <!-- displays site properly based on user's device -->
+
+ <link rel="stylesheet" href="styles.css">
+ <link rel="preconnect" href="https://fonts.gstatic.com">
+ <link href="https://fonts.googleapis.com/css2?family=Red+Hat+Text:wght@700&display=swap" rel="stylesheet"> 
+
+  <link rel="icon" type="image/png" sizes="32x32" href="./images/favicon-32x32.png">
+  
+  <title>Frontend Mentor | Launch countdown timer</title>
+
+  <!-- Feel free to remove these styles or customise in your own stylesheet 👍 -->
+  <style>
+    .attribution { font-size: 11px; text-align: center; }
+    .attribution a { color: hsl(228, 45%, 44%); }
+  </style>
+</head>
+<body>
+  
+  <div class="container">
+    
+    <header class="header">
+      <h1> We're launching soon</h1>
+    </header>
+    
+    <main class="clock-container">
+      
+      <div class="clock">
+        
+        <div class="clock-content">
+          <div class="clock-inner"> <h1 id="days">00</h1> </div>
+         
+        </div>
+        
+        <div class="clock-description">
+          <p>Days</p>
+        </div>
+        
+      </div>
+      
+       <div class="clock">
+        
+        <div class="clock-content">
+           <div class="clock-inner"> 
+           <h1 id="hours">00</h1> </div>
+        </div>
+        
+        <div class="clock-description">
+          <p>Hours</p>
+        </div>
+        
+      </div>
+      
+      <div class="clock">
+        
+        <div class="clock-content">
+         <div class="clock-inner"> <h1 id="minutes">00</h1> </div>
+        </div>
+        
+        <div class="clock-description">
+          <p>Minutes</p>
+        </div>
+        
+      </div>
+      
+      <div class="clock" id="clock">
+        
+        <div class="clock-content">
+         <div class="clock-inner"> <h1 id="seconds">00</h1> </div>
+        </div>
+        
+        <div class="clock-description">
+          <p>Seconds</p>
+        </div>
+        
+      </div>
+      
+    </main>
+    
+  </div>
+  
+   <footer class="footer">
+      <div class="footpage">
+      <img src="images/icon-facebook.svg" alt="facebook" class="icons">
+      <img src="images/icon-pinterest.svg" alt="pinterest" class="icons">
+      <img src="images/icon-instagram.svg" alt="instagram" id="lastimage" class="icons">
+      </div>
+      
+    </footer>
+
+  <div class="attribution">
+    Challenge by <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>. 
+    Coded by <a href="#">Daud Faozziyyah</a>.
+  </div>
+  
+  <script src="app.js"></script>
+</body>
+</html>

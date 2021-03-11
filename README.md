@@ -33,7 +33,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: ()
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
@@ -54,5 +54,5 @@ Users should be able to:
 ## Author
 
 - Website - [Daud Faozziyyah Opeyemi] (https://my-portfolio.faozziyyah.vercel.app/)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@faozziyyah](https://www.frontendmentor.io/profile/faozziyyah)
 - Twitter - [@faozziyyah](https://www.twitter.com/faozziyyah?s=08)

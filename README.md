@@ -31,7 +31,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: (https://github.com/faozziyyah/launchcountdowntimer)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: (https://faozziyyah.github.io/launchcountdowntimer/)
 
 ## My process
 
